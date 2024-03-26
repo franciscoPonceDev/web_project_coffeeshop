@@ -36,18 +36,18 @@
   list-style-type: none;
 }
 
-.video {
+.recipes__video {
   width: 480px;
 }
 
-.video__item {
+.Recipes__video-item {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
 
-.video__caption {
+.recipes__video-caption {
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
